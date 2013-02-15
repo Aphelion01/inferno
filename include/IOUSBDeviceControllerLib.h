@@ -32,8 +32,7 @@
 #ifndef _IOKIT_IOUSBDEVICECONTROLLERLIB_H_
 #define _IOKIT_IOUSBDEVICECONTROLLERLIB_H_
 
-#include <IOKit/IOTypes.h>
-#include <IOKit/IOReturn.h>
+#include "IOKitLite.h"
 #include <CoreFoundation/CoreFoundation.h>
 
 /*!
